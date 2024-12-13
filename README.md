@@ -229,6 +229,12 @@ void loop() {
   "dependencies": {}
 }
 ```
+## Arquivo TXT:
+
+Downloaded from https://wokwi.com/projects/413645635576658945
+
+Simulate this project on https://wokwi.com
+
 
 
 Agora eu irei passar por cada estado do projeto e o que está causando eles.
